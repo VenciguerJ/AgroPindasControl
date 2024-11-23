@@ -1,0 +1,17 @@
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\bin\Debug\net8.0-windows\AgroPindasControl.exe
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\bin\Debug\net8.0-windows\AgroPindasControl.deps.json
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\bin\Debug\net8.0-windows\AgroPindasControl.runtimeconfig.json
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\bin\Debug\net8.0-windows\AgroPindasControl.dll
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\bin\Debug\net8.0-windows\AgroPindasControl.pdb
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\AgroPindasControl.Form1.resources
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\AgroPindasControl.Properties.Resources.resources
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\AgroPindasControl.csproj.GenerateResource.cache
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\AgroPindasControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\AgroPindasControl.AssemblyInfoInputs.cache
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\AgroPindasControl.AssemblyInfo.cs
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\AgroPindasControl.csproj.CoreCompileInputs.cache
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\AgroPindasControl.dll
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\refint\AgroPindasControl.dll
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\AgroPindasControl.pdb
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\AgroPindasControl.genruntimeconfig.cache
+D:\PC\Faculdade\4 Semestre\PIM\AgroPindasControl\obj\Debug\net8.0-windows\ref\AgroPindasControl.dll
