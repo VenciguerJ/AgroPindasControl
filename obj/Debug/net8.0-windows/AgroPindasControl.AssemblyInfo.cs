@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgroPindasControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44bc5c13c6027af328288cc7cf1cbd351cd8794f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgroPindasControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgroPindasControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,4 +23,16 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="EPPlus" Version="7.5.1" />
+    <PackageReference Include="itext7" Version="9.0.0" />
+    <PackageReference Include="PdfSharp" Version="6.1.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
 </Project>

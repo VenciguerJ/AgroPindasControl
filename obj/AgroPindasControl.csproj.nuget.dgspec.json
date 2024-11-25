@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PC\\Faculdade\\4 Semestre\\PIM\\AgroPindasControl\\AgroPindasControl.csproj": {}
+    "C:\\PC\\Faculdade\\4 Semestre\\PIM\\AgroPindasControl\\AgroPindasControl.csproj": {}
   },
   "projects": {
-    "D:\\PC\\Faculdade\\4 Semestre\\PIM\\AgroPindasControl\\AgroPindasControl.csproj": {
+    "C:\\PC\\Faculdade\\4 Semestre\\PIM\\AgroPindasControl\\AgroPindasControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PC\\Faculdade\\4 Semestre\\PIM\\AgroPindasControl\\AgroPindasControl.csproj",
+        "projectUniqueName": "C:\\PC\\Faculdade\\4 Semestre\\PIM\\AgroPindasControl\\AgroPindasControl.csproj",
         "projectName": "AgroPindasControl",
-        "projectPath": "D:\\PC\\Faculdade\\4 Semestre\\PIM\\AgroPindasControl\\AgroPindasControl.csproj",
-        "packagesPath": "C:\\Users\\jeanp\\.nuget\\packages\\",
-        "outputPath": "D:\\PC\\Faculdade\\4 Semestre\\PIM\\AgroPindasControl\\obj\\",
+        "projectPath": "C:\\PC\\Faculdade\\4 Semestre\\PIM\\AgroPindasControl\\AgroPindasControl.csproj",
+        "packagesPath": "C:\\Users\\Xeansao\\.nuget\\packages\\",
+        "outputPath": "C:\\PC\\Faculdade\\4 Semestre\\PIM\\AgroPindasControl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jeanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Xeansao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +45,28 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.5.1, )"
+            },
+            "PdfSharp": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
